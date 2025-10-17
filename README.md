@@ -2,6 +2,14 @@
 
 Automate Google sign-in → SSO into societies.io → run simulation → extract results as JSON.
 
+## ✅ Milestone 2 Complete!
+
+**Status:** All requirements verified and working! See [MILESTONE_2_STATUS.md](./MILESTONE_2_STATUS.md) for details.
+
+- ✅ RapidMCP compatible API server
+- ✅ 11+ test types with auto-normalization
+- ✅ Production-ready deployment
+
 ## Setup
 
 ### 1. Environment
